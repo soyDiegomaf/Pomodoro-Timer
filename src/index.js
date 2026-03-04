@@ -24,7 +24,7 @@ const createWindow = () => {
 
   mainWindow.setMenuBarVisibility(false);
   mainWindow.setResizable(false);
-  mainWindow.setTitle("DMAF Pomodoro Timer");
+  mainWindow.setTitle("Pomodoro Timer");
 };
 
 // This method will be called when Electron has finished
